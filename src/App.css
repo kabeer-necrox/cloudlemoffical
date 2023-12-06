@@ -1,8 +1,4 @@
-/* .bg-body-tertiary{
-  border: 2px solid red;
-  background-color: rgb(6,40,44) !important;
-  height: 130px;
-} */
+
 
 .navbar{
   background-color: rgb(6,40,44) !important;
@@ -11,8 +7,6 @@
   padding: 0px;
   margin: 0px;
  
-
-
 }
 .navmenuright{
   color: white !important; 
@@ -52,13 +46,26 @@ color: white;
   padding-top: 100px;
 }
 .homeparaa{
-  width: 790px;
+  width: 720px;
   padding-top: 40px;
   padding-left: 140px;
+  color: white;
+  text-align: justify;
 }
 
 .navbar{
   border-bottom: 2px solid #345054;
+}
+
+.paraandimg{
+  display: flex;
+  justify-content:space-between;
+  flex-wrap: wrap;
+}
+.imagehome img{
+  width: 300px;
+  height: 300px;
+  margin-right: 100px;
 }
 
 

@@ -5,7 +5,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import MyAppBar from './components/header/MyAppBar';
 
-import Slider from './components/home/Slider';
+// import Slider from './components/home/Slider';
+import Animation from './components/home/Animation';
+import Paraanima from './components/home/Paraanima';
 
 function App() {
   return (
@@ -13,7 +15,9 @@ function App() {
  
      <MyAppBar />
    
-     <Slider />
+     {/* <Slider /> */}
+     <Animation />
+     <Paraanima />
     </div>
   );
 }
