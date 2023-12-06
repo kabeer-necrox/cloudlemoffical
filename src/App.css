@@ -1,0 +1,65 @@
+/* .bg-body-tertiary{
+  border: 2px solid red;
+  background-color: rgb(6,40,44) !important;
+  height: 130px;
+} */
+
+.navbar{
+  background-color: rgb(6,40,44) !important;
+  width: 100% !important;
+  height: 100PX;
+  padding: 0px;
+  margin: 0px;
+ 
+
+
+}
+.navmenuright{
+  color: white !important; 
+  
+}
+
+body{
+  background-color: #06282c;
+ 
+}
+
+#basic-nav-dropdown{
+  color: white;
+}
+
+
+.hoempaages{
+background-color: #06282c;
+color: white;
+}
+
+#hooo{
+  background-color: #06282c;
+
+}
+.homepageTextandpara{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+
+.homeheading{
+  color: #4ec6bc;
+  width: 850px;
+  padding-left: 140px;
+  padding-top: 100px;
+}
+.homeparaa{
+  width: 790px;
+  padding-top: 40px;
+  padding-left: 140px;
+}
+
+.navbar{
+  border-bottom: 2px solid #345054;
+}
+
+
+
